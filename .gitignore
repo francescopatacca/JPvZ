@@ -1,0 +1,77 @@
+# ==========================================
+# File di compilazione e output Java
+# ==========================================
+*.class
+bin/
+build/
+out/
+target/
+dist/
+
+# File di archivio / pacchetti compilati
+# (Scommenta la riga '!JPvZ.jar' se desideri versionare l'eseguibile compilato)
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+# !JPvZ.jar
+
+# Log ed errori di crash JVM
+*.log
+hs_err_pid*
+replay_pid*
+
+# ==========================================
+# Configurazione IDE ed Editor
+# ==========================================
+
+# Eclipse
+.metadata/
+.settings/
+.loadpath
+.recommenders/
+# Se non vuoi condividere la configurazione del workspace Eclipse:
+.project
+.classpath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Visual Studio Code
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+
+# ==========================================
+# File di sistema e temporanei
+# ==========================================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor generici e file temporanei
+*.tmp
+*.bak
+*.swp
+*~

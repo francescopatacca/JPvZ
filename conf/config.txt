@@ -1,0 +1,16 @@
+# +------------------------------------+
+# |   JPvZ configuration file          |
+# +------------------------------------+
+
+# Game play & economy settings
+startingSun = 15000
+tickDelay = 20
+sunDelay = 15000
+zombieSpawnDelay = 7000
+zombieSpawnWaveDelay = 4000
+
+# User preferences
+playerName = Giocatore
+musicVolume = 50
+selectedMap = prato giorno
+difficulty = normale
