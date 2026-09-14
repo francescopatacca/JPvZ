@@ -5,6 +5,12 @@
 
 ---
 
+## 📄 Documentazione di Progetto
+
+È disponibile la relazione tecnica completa in PDF con l'analisi dei requisiti, i diagrammi UML (Model, View, Controller) e la descrizione dei problemi affrontati:  
+
+---
+
 ## 🎮 Caratteristiche Principali
 
 * **Gameplay Completo**:
